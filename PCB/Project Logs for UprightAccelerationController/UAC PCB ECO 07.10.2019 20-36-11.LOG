@@ -1,0 +1,144 @@
+Added Component: Designator=C1(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=M1(MOUNTING_PAD_M4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M2(MOUNTING_PAD_M4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M3(MOUNTING_PAD_M4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(STACKPOLE CSR0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(*QFP80P1600X1600X120-64N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AT90CAN128-16AI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-64 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AT90CAN128-16AI/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX31855KASA+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX31855KASA+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=VDDA Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VDDA Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+12V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=+12V Pin=M3-1
+Added Pin To Net: NetName=NetC7_1 Pin=R1-1
+Added Pin To Net: NetName=VDDA Pin=R1-2
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=+5V Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=NetC8_2 Pin=U1-23
+Added Pin To Net: NetName=NetC9_2 Pin=U1-24
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=+5V Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=NetU1_54 Pin=U1-54
+Added Pin To Net: NetName=NetU1_55 Pin=U1-55
+Added Pin To Net: NetName=NetU1_56 Pin=U1-56
+Added Pin To Net: NetName=NetU1_57 Pin=U1-57
+Added Pin To Net: NetName=NetC7_1 Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=VDDA Pin=U1-64
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+5V Pin=U2-4
+Added Pin To Net: NetName=NetU1_11 Pin=U2-5
+Added Pin To Net: NetName=NetU1_10 Pin=U2-6
+Added Pin To Net: NetName=NetU1_13 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Pin To Net: NetName=NetU1_11 Pin=U3-5
+Added Pin To Net: NetName=NetU1_10 Pin=U3-6
+Added Pin To Net: NetName=NetU1_13 Pin=U3-7
+Added Member To Class: ClassName=main Member=Component C1 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C2 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C3 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C4 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C5 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C6 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C7 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C8 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C9 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C10 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C11 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component M1 mounting pad
+Added Member To Class: ClassName=main Member=Component M2 mounting pad
+Added Member To Class: ClassName=main Member=Component M3 mounting pad
+Added Member To Class: ClassName=main Member=Component R1 SMD Resistor
+Added Member To Class: ClassName=main Member=Component U1 AT90CAN128-16AI
+Added Member To Class: ClassName=main Member=Component U2 MAX31855KASA+
+Added Member To Class: ClassName=main Member=Component U3 MAX31855KASA+
+Added Room: Name=main

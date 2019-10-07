@@ -1,0 +1,14 @@
+Added Component: Designator=C10(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C11-2
+Added Pin To Net: NetName=+12V Pin=C10-2
+Added Net: Name=+12V
+Added Member To Class: ClassName=main Member=Component C10 SMD Capacitor
+Added Member To Class: ClassName=main Member=Component C11 SMD Capacitor
+Added Room: Name=main
