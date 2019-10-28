@@ -1,0 +1,20 @@
+Added Component: Designator=U5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(*SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=GND Pin=U5-16
+Added Pin To Net: NetName=NetC17_9 Pin=U5-30
+Added Pin To Net: NetName=+12V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=+5V Pin=U6-3
+Added Member To Class: ClassName=main Member=Component U5 ADXL1001/2
+Added Member To Class: ClassName=main Member=Component U6 LT1118CST-5
+Added Room: Name=main

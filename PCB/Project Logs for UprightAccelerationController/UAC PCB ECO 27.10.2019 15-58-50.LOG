@@ -1,0 +1,12 @@
+Added Component: Designator=C17(43045-1012)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetC17_3 Pin=C17-3
+Added Pin To Net: NetName=NetC17_4 Pin=C17-4
+Added Pin To Net: NetName=NetC17_5 Pin=C17-5
+Added Pin To Net: NetName=NetC17_6 Pin=C17-6
+Added Pin To Net: NetName=NetC17_7 Pin=C17-7
+Added Pin To Net: NetName=NetC17_8 Pin=C17-8
+Added Pin To Net: NetName=NetC17_9 Pin=C17-9
+Added Member To Class: ClassName=main Member=Component C17 43045-1012

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U4 Old Footprint=*SOIC127P600X175-8N New Footprint=*SOT230P700X180-4N
+Change Component Footprint: Designator=U5 Old Footprint=*SOT230P700X180-4N New Footprint=*SOIC127P600X175-8N
+Change Component Comment: Designator=U5 Old Comment=LT1118CST-5 New Comment=MCP2551-I/SN
+Change Component Comment: Designator=U4 Old Comment=MCP2551-I/SN New Comment=LT1118CST-5
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Pin Designator/Name:  Old Designator=U4-1 Old Name=TXD New Designator =RS New Name=8
