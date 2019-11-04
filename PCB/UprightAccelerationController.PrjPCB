@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHBJYPJK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UprightAccelerationController\Design Rule Check - UAC.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
