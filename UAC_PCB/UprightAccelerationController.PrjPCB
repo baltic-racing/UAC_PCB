@@ -258,67 +258,88 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBBDSSHF
 
+[Document14]
+DocumentPath=Copy of UAC_V1_1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JTXLSAJJ
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UprightAccelerationController\Design Rule Check - UAC.html
+DocumentPath=Project Outputs for UprightAccelerationController\Design Rule Check - Copy of UAC_V1_1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=gerbers\JLC_GERBERS\UAC.DRR
+DocumentPath=Project Outputs for UprightAccelerationController\Design Rule Check - UAC.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=gerbers\JLC_GERBERS\UAC.EXTREP
+DocumentPath=gerbers\JLC_GERBERS\UAC.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GBL
+DocumentPath=gerbers\JLC_GERBERS\UAC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GBO
+DocumentPath=gerbers\JLC_GERBERS\UAC.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GBS
+DocumentPath=gerbers\JLC_GERBERS\UAC.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GD1
+DocumentPath=gerbers\JLC_GERBERS\UAC.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GKO
+DocumentPath=gerbers\JLC_GERBERS\UAC.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GM2
+DocumentPath=gerbers\JLC_GERBERS\UAC.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GTL
+DocumentPath=gerbers\JLC_GERBERS\UAC.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GTO
+DocumentPath=gerbers\JLC_GERBERS\UAC.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=gerbers\JLC_GERBERS\UAC.GTS
+DocumentPath=gerbers\JLC_GERBERS\UAC.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=gerbers\JLC_GERBERS\UAC.LDP
+DocumentPath=gerbers\JLC_GERBERS\UAC.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=gerbers\JLC_GERBERS\UAC.REP
+DocumentPath=gerbers\JLC_GERBERS\UAC.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=gerbers\JLC_GERBERS\UAC.RUL
+DocumentPath=gerbers\JLC_GERBERS\UAC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=gerbers\JLC_GERBERS\UAC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=gerbers\JLC_GERBERS\UAC.TXT
 DItemRevisionGUID=
 
